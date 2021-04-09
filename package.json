@@ -1,0 +1,25 @@
+{
+  "name": "retos-task5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "webpack": "webpack",
+    "dev:serve": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.31.0",
+    "webpack-cli": "^4.6.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
+    "ts-loader": "^8.1.0",
+    "typescript": "^4.2.4",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
