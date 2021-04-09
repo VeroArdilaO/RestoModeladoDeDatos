@@ -1,4 +1,4 @@
-# RestoModeladoDeDatos
+# RetoModeladoDeDatos
 
 Este Ejercicio hace parte de la Tarea 5 del Módulo 2 de Javascript/Typescript 1 del Programa BeeSoft Labs.
 
